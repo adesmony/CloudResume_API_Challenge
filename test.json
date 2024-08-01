@@ -1,0 +1,110 @@
+{
+    "basics": {
+      "name": "Samuel Olowolade",
+      "label": "Cloud Solutions Architect",
+      "image": "",
+      "email": "olowoladesamuel@gmail.com",
+      "phone": "(+234) 809-176-4268",
+      "url": "https://johndoe.com",
+      "summary": "An award winning Cloud Solutions Architect with a passion for microservice architectures and serverless, I specialize in design and implementation of cloud native solutions using AWS, VMWare, Hyper-V, Azure and Azure Stack Hub. With a Bachelor's degree in Mechanical Engineering and hands-on experience in Cloud Engineering, I am committed to helping businesses of all sizes leverange the power of cloud",
+      "location": {
+        "address": "60 Market St",
+        "postalCode": "100231",
+        "city": "Lagos",
+        "countryCode": "Nigeria",
+        "region": "South West"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "OlowoladeSamuel",
+        "url": "https://linkedin.com/in/olowoladesamuel"
+      }]
+    },
+    "work": [{
+      "name": "Equinix",
+      "position": "Senior Cloud Architect",
+      "url": "https://www.equinix.com",
+      "startDate": "2024-07-01",
+      "endDate": "till-date",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
