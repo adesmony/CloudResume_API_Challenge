@@ -1,3 +1,4 @@
+import logging
 import azure.functions as func
 from azure.cosmos import CosmosClient, exceptions
 import os
